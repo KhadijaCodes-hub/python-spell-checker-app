@@ -18,7 +18,7 @@ Type any sentence and see instant corrections — just like magic! ✨
 Clone the repository and navigate to the folder:
 
 ```bash
-git clone https://github.com/KhadijaCodes-hub/spell-checker-app.git
+git clone https://github.com/KhadijaCodes-hub/python-spell-checker-app.git
 cd spell-checker-app
 ````
 
