@@ -19,7 +19,7 @@ Clone the repository and navigate to the folder:
 
 ```bash
 git clone https://github.com/KhadijaCodes-hub/python-spell-checker-app.git
-cd spell-checker-app
+cd python-spell-checker-app
 ````
 
 Install dependencies:
